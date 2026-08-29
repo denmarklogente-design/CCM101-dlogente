@@ -18,7 +18,7 @@ LOGO=ubuntu-logo
 ````
 ## Kernel Version
 ```
-| Kernel Version | `6.8.0-138-generic` |
+6.8.0-138-generic
 ```
 ## CPU Model
 
@@ -31,7 +31,7 @@ LOGO=ubuntu-logo
 ## Number of CPU Cores
 
 ```
-| Number of CPU Cores | `1`    |
+1
 ```
 ## Total RAM
 
@@ -80,12 +80,12 @@ configfs     on  /sys/kernel/config        type  configfs        (rw,nosuid,node
 
 
 ## Hostname
-
-| -------- | -------- |
-| Hostname | `ubuntu` |
+```
+ubuntu
+```
 
 ## IP Address
-| ------------ | ------------ |
-| IP Address 1 | `172.30.1.2` |
-| IP Address 2 | `172.17.0.1` |
-
+```
+IP Address 1  172.30.1.2
+IP Address 2 172.17.0.1
+```
