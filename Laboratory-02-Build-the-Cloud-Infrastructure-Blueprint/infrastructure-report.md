@@ -17,10 +17,9 @@ UBUNTU_CODENAME=noble
 LOGO=ubuntu-logo
 ````
 ## Kernel Version
-
-| -------------- | ------------------- |
+```
 | Kernel Version | `6.8.0-138-generic` |
-
+```
 ## CPU Model
 
 | Item                   | Result            |
@@ -31,9 +30,9 @@ LOGO=ubuntu-logo
 
 ## Number of CPU Cores
 
-| ------------------- | ------ |
+```
 | Number of CPU Cores | `1`    |
-
+```
 ## Total RAM
 
 ```
