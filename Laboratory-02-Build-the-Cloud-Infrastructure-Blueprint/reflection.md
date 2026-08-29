@@ -1,4 +1,4 @@
-# Mission Reflection
+# Reflection
 
 This laboratory activity helped me understand cloud infrastructure through actual hands-on experience. Using the KillerCoda Playground allowed me to explore a Linux server and examine the resources that are available in a cloud-like environment. This made the concepts easier to understand because I was able to see real system information through the terminal.
 
