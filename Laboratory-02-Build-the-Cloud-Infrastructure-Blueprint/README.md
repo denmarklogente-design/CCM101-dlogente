@@ -4,11 +4,12 @@ Your onboarding has been successfully completed, and your Cloud Computing Portfo
 
 ## Mission Objectives
 At the end of this laboratory activity, you should be able to: Explain the major components of cloud infrastructure.
-Investigate the hardware and software resources available in a Linux environment.
-Differentiate compute, storage, networking, and identity resources.
-Interpret the relationship between cloud infrastructure components.
-Create professional technical documentation using Markdown.
-Continue building a structured GitHub Cloud Computing Portfolio.
+
+- Investigate the hardware and software resources available in a Linux environment.
+- Differentiate compute, storage, networking, and identity resources.
+- Interpret the relationship between cloud infrastructure components.
+- Create professional technical documentation using Markdown.
+- Continue building a structured GitHub Cloud Computing Portfolio.
 
 # Cloud Infrastructure Components
 
@@ -45,11 +46,11 @@ Continue building a structured GitHub Cloud Computing Portfolio.
 | `hostname -I`                | 
 
 # Skills Learned
-
+```
 I learned how to examine a Linux server and obtain important information using basic terminal commands. I became more familiar with checking system hardware, memory, storage, networking, and operating system details.
 
 I also learned how to organize the collected information according to different cloud infrastructure components. In addition, I practiced using Markdown and GitHub to create and maintain technical documentation.
-
+```
 # Challenges Encountered
 
 ## Challenges   
