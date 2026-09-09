@@ -56,4 +56,4 @@ For organizations using containers, GKE can provide a managed Kubernetes environ
 
 ## Screenshot
 
-`![Google Cloud Platform Screenshot](screenshots/gcp-screenshot.png)`
+![AWS Homepage](screenshots/gcp-homepage.png)
