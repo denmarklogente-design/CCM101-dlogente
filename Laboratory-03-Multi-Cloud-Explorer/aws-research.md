@@ -56,4 +56,4 @@ AWS can also support website hosting, application development, data storage, bac
 
 The screenshot below shows the AWS research or activity evidence completed for this laboratory.
 
-`![AWS Screenshot](screenshots/aws-screenshot.png)`
+`![AWS Screenshot](screenshots/aws-homepage.png)`
