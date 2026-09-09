@@ -1,70 +1,70 @@
 # Linux Investigation Using KillerCoda
 
-A Linux server environment was examined through the KillerCoda Playground to gather basic system information. The investigation covered the operating system, processor details, memory allocation, and available storage by using different Linux commands.
+The KillerCoda Playground was used to inspect a Linux environment and gather basic information about the server. The investigation focused on the operating system, CPU, memory, and storage by running several commands through the terminal.
 
 ---
 
 ## 1. Operating System
 
-The operating system was checked using the following command:
+The installed Linux distribution was checked with:
 
 ```bash
 cat /etc/os-release
 ```
 
-This command provides details about the Linux distribution currently running in the environment, including its name, version, and other release information.
+This command was used to view the name, version, and other release details of the operating system running on the server.
 
 ### Terminal Evidence 1 – Operating System
 
-[KillerCoda Terminal 1 - Operating System](screenshots/killercoda-terminal1.png)
+![KillerCoda Terminal 1](screenshots/killercoda-terminal1.png)
 
 ---
 
 ## 2. CPU Information
 
-The processor information was examined using:
+The server's processor configuration was examined using:
 
 ```bash
 lscpu
 ```
 
-The command provides several details about the server's processor, such as the CPU architecture, processor count, and other hardware-related information.
+The command provides technical information about the processor, including its architecture, CPU count, cores, threads, and other hardware details.
 
 ### Terminal Evidence 2 – CPU Information
 
-[KillerCoda Terminal 2 - CPU Information](screenshots/killercoda-terminal2.png)
+![KillerCoda Terminal 2](screenshots/killercoda-terminal2.png)
 
 ---
 
 ## 3. Memory
 
-The server's memory usage was examined with:
+The system memory was checked through:
 
 ```bash
 free -h
 ```
 
-This command presents the memory statistics in an easier-to-read format. It shows the total memory together with the amount currently used, free, and available.
+This command displays the memory resources in a readable format. It shows how much memory is installed and how much is currently being used or remains available.
 
 ### Terminal Evidence 3 – Memory
 
-[KillerCoda Terminal 3 - Memory](screenshots/killercoda-terminal3.png)
+![KillerCoda Terminal 3](screenshots/killercoda-terminal3.png)
 
 ---
 
 ## 4. Disk Space
 
-The available storage was checked using:
+The storage condition of the server was examined using:
 
 ```bash
 df -h
 ```
 
-This command shows the storage capacity of the mounted file systems. It also provides information about used space, remaining space, and the percentage of storage currently being used.
+This command was used to view the size of the mounted storage, the amount already occupied, the remaining capacity, and the percentage of disk usage.
 
 ### Terminal Evidence 4 – Disk Space
 
-[KillerCoda Terminal 4 - Disk Space](screenshots/killercoda-terminal4.png)
+![KillerCoda Terminal 4](screenshots/killercoda-terminal4.png)
 
 ---
 
@@ -81,13 +81,10 @@ This command shows the storage capacity of the mounted file systems. It also pro
 
 ## Cloud Migration
 
-If the Linux server were transferred to a cloud environment, it could be deployed through virtual machine services offered by major cloud providers.
+The Linux server could also be deployed in a cloud environment by using virtual machine services from major cloud providers. Each provider offers a service that can provide computing resources for running a Linux-based server.
 
 | Cloud Provider              | Service That Could Host the Linux Server |
 | --------------------------- | ---------------------------------------- |
-| AWS                         | Amazon EC2                               |
-| Microsoft Azure             | Azure Virtual Machines                   |
-| Google Cloud Platform (GCP) | Compute Engine                           |
-
-These services provide virtual machines where Linux operating systems can be installed and used for different workloads. The server could therefore be moved from the current environment to a cloud platform while continuing to use Linux as its operating system.
-
+| AWS                         | `Amazon EC2`                             |
+| Microsoft Azure             | `Azure Virtual Machines`                 |
+| Google Cloud Platform (GCP) | `Compute Engine`                         |
