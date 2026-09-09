@@ -54,5 +54,4 @@ It can also be useful for companies that want to move some of their existing inf
 
 ## Screenshot
 
-[Azure Homepage](screenshots/azure-homepage.png)
-
+![AWS Homepage](screenshots/azure-homepage.png)
