@@ -1,6 +1,6 @@
 # MinIO Deployment Documentation
 
-## Deployment Summary
+## Deployment
 
 In this laboratory activity, I deployed MinIO as an object storage server using Docker in the KillerCoda Ubuntu Playground. After starting the MinIO container, I accessed its web console, created a bucket, and uploaded a sample file.
 
