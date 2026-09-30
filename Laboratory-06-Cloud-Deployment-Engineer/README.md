@@ -28,5 +28,3 @@ docker-compose down
 ## Skills Learned
 
 This activity helped me develop skills in Docker Compose, YAML configuration, Linux commands, container deployment, environment variables, container communication, and technical documentation.
-
-````
