@@ -2,11 +2,11 @@
 
 ## RAM
 
-The server had a total RAM of **[ `1.9 Gib`]**.
+The server had a total RAM of ** `1.9 Gib`**.
 
 ## Root File System Storage
 
-The root (`/`) file system had a total storage capacity of **[` 19 GB/`]**.
+The root (`/`) file system had a total storage capacity of **` 19 GB/`**.
 
 ## Why Disk Space Is Critical
 
