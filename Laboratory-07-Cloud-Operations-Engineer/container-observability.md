@@ -2,8 +2,6 @@
 
 ## 404 Error
 
-The following line was taken from the container logs after requesting a page that did not exist:
-
 ```text id="p6y2nf"
 172.17.0.1 - - [05/Oct/2026:01:49:54 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
 ```
