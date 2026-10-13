@@ -31,7 +31,3 @@ curl -I --max-time 5 http://localhost:8080
 ## Skills Learned
 
 This laboratory provided experience in starting a Docker-based web server, testing HTTP responses, and managing network access with UFW. It also demonstrated how default firewall policies and specific allow rules help limit unnecessary connections to a server.
-
-## Evidence
-
-Screenshots are included to document the running application, firewall activation, and the rule that permits access through the required application port.
