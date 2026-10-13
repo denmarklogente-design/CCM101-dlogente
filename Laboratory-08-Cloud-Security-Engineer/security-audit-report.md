@@ -11,11 +11,3 @@ An attack surface includes the interfaces and services that could be targeted to
 ## Default Deny Policy
 
 A Default Deny policy blocks incoming connections unless a firewall rule specifically permits them. This approach limits access to approved services instead of allowing connections by default, helping reduce unwanted network exposure.
-
-## Firewall Assessment
-
-The firewall configuration should be reviewed after the rules have been applied. Checking the active policy and permitted ports helps confirm whether the intended security settings are in place.
-
-## Recommendations
-
-Administrators should keep only necessary ports accessible, review firewall rules regularly, and update services to address known vulnerabilities. Required application and administrative connections should be tested after security changes are made.
